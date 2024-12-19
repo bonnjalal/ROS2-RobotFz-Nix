@@ -1,0 +1,38 @@
+Invoking command in '/home/bonnjalal/Documents/Robotics/src/robotFz_ball_detector': PYTHONPATH=/home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/prefix_override:/nix/store/9y77vmw9sxmkxdn4cb9mf6s793whjxmv-python3.12-colcon-core-0.18.3/lib/python3.12/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages:${PYTHONPATH} XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/h3i0acpmr8mrjx07519xxmidv8mpax4y-python3-3.12.5/bin/python3.12 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robotFz_ball_detector build --build-base /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build install --record /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/install.log --single-version-externally-managed install_data
+Invoked command in '/home/bonnjalal/Documents/Robotics/src/robotFz_ball_detector' returned '0': PYTHONPATH=/home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/prefix_override:/nix/store/9y77vmw9sxmkxdn4cb9mf6s793whjxmv-python3.12-colcon-core-0.18.3/lib/python3.12/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages:${PYTHONPATH} XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/h3i0acpmr8mrjx07519xxmidv8mpax4y-python3-3.12.5/bin/python3.12 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robotFz_ball_detector build --build-base /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build install --record /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/install.log --single-version-externally-managed install_data

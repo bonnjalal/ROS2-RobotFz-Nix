@@ -1,0 +1,73 @@
+[1.112s] Invoking command in '/home/bonnjalal/Documents/Robotics/src/robotFz_ball_detector': PYTHONPATH=/home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/prefix_override:/nix/store/9y77vmw9sxmkxdn4cb9mf6s793whjxmv-python3.12-colcon-core-0.18.3/lib/python3.12/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages:${PYTHONPATH} XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/h3i0acpmr8mrjx07519xxmidv8mpax4y-python3-3.12.5/bin/python3.12 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robotFz_ball_detector build --build-base /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build install --record /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/install.log --single-version-externally-managed install_data
+[1.500s] running egg_info
+[1.521s] writing ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/PKG-INFO
+[1.522s] writing dependency_links to ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/dependency_links.txt
+[1.522s] writing entry points to ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/entry_points.txt
+[1.523s] writing requirements to ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/requires.txt
+[1.523s] writing top-level names to ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/top_level.txt
+[1.567s] reading manifest file '../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/SOURCES.txt'
+[1.568s] writing manifest file '../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/SOURCES.txt'
+[1.569s] running build
+[1.569s] running build_py
+[1.569s] copying robotFz_ball_detector/__init__.py -> /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector
+[1.569s] copying robotFz_ball_detector/get_hsv.py -> /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector
+[1.570s] copying robotFz_ball_detector/ball_detector_node.py -> /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector
+[1.570s] copying robotFz_ball_detector/ball_detector_node_2.py -> /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector
+[1.570s] copying robotFz_ball_detector/webcam_publisher_node.py -> /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector
+[1.570s] running install
+[1.579s] running install_lib
+[1.600s] copying /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector/get_hsv.py -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector
+[1.600s] copying /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector/ball_detector_node.py -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector
+[1.600s] copying /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector/ball_detector_node_2.py -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector
+[1.601s] copying /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector/webcam_publisher_node.py -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector
+[1.602s] byte-compiling /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector/get_hsv.py to get_hsv.cpython-312.pyc
+[1.603s] byte-compiling /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector/ball_detector_node.py to ball_detector_node.cpython-312.pyc
+[1.607s] byte-compiling /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector/ball_detector_node_2.py to ball_detector_node_2.cpython-312.pyc
+[1.610s] byte-compiling /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector/webcam_publisher_node.py to webcam_publisher_node.cpython-312.pyc
+[1.611s] running install_data
+[1.611s] copying resource/robotFz_ball_detector -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/share/ament_index/resource_index/packages
+[1.612s] copying package.xml -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/share/robotFz_ball_detector
+[1.612s] running install_egg_info
+[1.635s] removing '/home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector-0.0.0-py3.12.egg-info' (and everything under it)
+[1.635s] Copying ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info to /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector-0.0.0-py3.12.egg-info
+[1.636s] running install_scripts
+[1.754s] Installing ball_detector_node script to /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/robotFz_ball_detector
+[1.755s] Installing webcam_publisher_node script to /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/robotFz_ball_detector
+[1.755s] writing list of installed files to '/home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/install.log'
+[1.793s] Invoked command in '/home/bonnjalal/Documents/Robotics/src/robotFz_ball_detector' returned '0': PYTHONPATH=/home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/prefix_override:/nix/store/9y77vmw9sxmkxdn4cb9mf6s793whjxmv-python3.12-colcon-core-0.18.3/lib/python3.12/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages:${PYTHONPATH} XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/h3i0acpmr8mrjx07519xxmidv8mpax4y-python3-3.12.5/bin/python3.12 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robotFz_ball_detector build --build-base /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build install --record /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/install.log --single-version-externally-managed install_data

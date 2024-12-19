@@ -1,0 +1,114 @@
+Invoking command in '/home/bonnjalal/Documents/Robotics/build/micro_ros_setup': CMAKE_PREFIX_PATH=/nix/store/7pms4kgr1pqw82ss8wwcahw6fnm27av4-ros-env XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/sy0yqiyv1wh086i94ka5w28ln305xfy1-python3.12-cmake-3.29.6/bin/cmake /home/bonnjalal/Documents/Robotics/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/home/bonnjalal/Documents/Robotics/install/micro_ros_setup
+Invoked command in '/home/bonnjalal/Documents/Robotics/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/nix/store/7pms4kgr1pqw82ss8wwcahw6fnm27av4-ros-env XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/sy0yqiyv1wh086i94ka5w28ln305xfy1-python3.12-cmake-3.29.6/bin/cmake /home/bonnjalal/Documents/Robotics/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/home/bonnjalal/Documents/Robotics/install/micro_ros_setup
+Invoking command in '/home/bonnjalal/Documents/Robotics/build/micro_ros_setup': CMAKE_PREFIX_PATH=/nix/store/7pms4kgr1pqw82ss8wwcahw6fnm27av4-ros-env XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/sy0yqiyv1wh086i94ka5w28ln305xfy1-python3.12-cmake-3.29.6/bin/cmake --build /home/bonnjalal/Documents/Robotics/build/micro_ros_setup -- -j8 -l8
+Invoked command in '/home/bonnjalal/Documents/Robotics/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/nix/store/7pms4kgr1pqw82ss8wwcahw6fnm27av4-ros-env XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/sy0yqiyv1wh086i94ka5w28ln305xfy1-python3.12-cmake-3.29.6/bin/cmake --build /home/bonnjalal/Documents/Robotics/build/micro_ros_setup -- -j8 -l8
+Invoking command in '/home/bonnjalal/Documents/Robotics/build/micro_ros_setup': CMAKE_PREFIX_PATH=/nix/store/7pms4kgr1pqw82ss8wwcahw6fnm27av4-ros-env XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/sy0yqiyv1wh086i94ka5w28ln305xfy1-python3.12-cmake-3.29.6/bin/cmake --install /home/bonnjalal/Documents/Robotics/build/micro_ros_setup
+Invoked command in '/home/bonnjalal/Documents/Robotics/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/nix/store/7pms4kgr1pqw82ss8wwcahw6fnm27av4-ros-env XML_CATALOG_FILES= _=/nix/store/0kg70swgpg45ipcz3pr2siidq9fn6d77-coreutils-9.5/bin/env buildPhase={ echo "------------------------------------------------------------";
+  echo " WARNING: the existence of this path is not guaranteed.";
+  echo " It is an internal implementation detail for pkgs.mkShell.";
+  echo "------------------------------------------------------------";
+  echo;
+  # Record all build inputs as runtime dependencies
+  export;
+} >> "$out" shellHook=export LD_LIBRARY_PATH=$NIX_LD_LIBRARY_PATH
+# current_path="$PWD"
+# folder_path="$current_path/$shellName"
+#
+# if [ ! -d "$folder_path" ]; then
+#   echo "Creating vertual env: $folder_path"
+#   python -m venv $shellName
+# else
+#   echo "vertual env '$folder_path' already exists."
+# fi
+# source $shellName/bin/activate
+## This is if we are not using python env /nix/store/sy0yqiyv1wh086i94ka5w28ln305xfy1-python3.12-cmake-3.29.6/bin/cmake --install /home/bonnjalal/Documents/Robotics/build/micro_ros_setup

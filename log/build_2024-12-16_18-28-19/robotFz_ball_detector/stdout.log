@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info
+writing ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/PKG-INFO
+writing dependency_links to ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/dependency_links.txt
+writing requirements to ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/requires.txt
+writing top-level names to ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/top_level.txt
+writing manifest file '../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/SOURCES.txt'
+reading manifest file '../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/SOURCES.txt'
+writing manifest file '../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build
+creating /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib
+creating /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector
+copying robotFz_ball_detector/__init__.py -> /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector
+running install
+running install_lib
+creating /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector
+copying /home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/build/lib/robotFz_ball_detector/__init__.py -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector
+byte-compiling /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/share/ament_index
+creating /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/share/ament_index/resource_index
+creating /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/share/ament_index/resource_index/packages
+copying resource/robotFz_ball_detector -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/share/ament_index/resource_index/packages
+copying package.xml -> /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/share/robotFz_ball_detector
+running install_egg_info
+Copying ../../build/robotFz_ball_detector/robotFz_ball_detector.egg-info to /home/bonnjalal/Documents/Robotics/install/robotFz_ball_detector/lib/python3.12/site-packages/robotFz_ball_detector-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/bonnjalal/Documents/Robotics/build/robotFz_ball_detector/install.log'
